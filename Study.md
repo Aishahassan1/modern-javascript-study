@@ -78,8 +78,8 @@ Use [DuckDuckGo](https://duckduckgo.com/) or your preferred search engine along 
   ```
 
   ```js
-   // renderGuest would use forEach() 
-   // getGuestsWithChildTicket would use filter()
+   // for renderGuest would use forEach() 
+   // for getGuestsWithChildTicket would use filter()
   ```  
 
 2. Write js code to destructure this object:
